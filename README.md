@@ -7,7 +7,7 @@
   * [Linkedin][1].
   * ⚓ [Kaggle][2].
   * [StackOverflow][3].
-- 📫 You can reach out to me on my 📧: __d.g.bhat094__ followed by <Google's popular email service> dot com.
+- 📫 You can reach out to me on my 📧: _d.g.bhat094_ followed by <Google's popular email service> dot com.
 
 [1]: https://www.linkedin.com/in/dheemanth-bhat/
 [2]: https://www.kaggle.com/dheemanthbhat
