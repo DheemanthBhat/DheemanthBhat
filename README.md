@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dheemanth Bhat / @DheemanthBhat
-- 🕸️ I'm a MERN stack developer.
+- 🕸️ I'm a Python, MERN stack developer.
 - 👀 I’m interested in Artificial Intelligence & Autopilot.
 - 🌱 I’m currently exploring Machine Learning.
 - 💞️ I’m looking to collaborate on ML & DL projects/competitions/discussions.
